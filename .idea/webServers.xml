@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b707adb-6a53-4056-9662-00ea6512e867" name="mi3-ls15.a2hosting.com" url="http://trumpsucksat.golf">
+        <fileTransfer rootFolder="/home/dkevinal/_addon_sites/trumpsucksat_golf/www/web" accessType="SFTP" host="mi3-ls15.a2hosting.com" port="7822" sshConfigId="e80b0891-91ec-47f6-acc6-66954be7db63" sshConfig="dkevinal@mi3-ls15.a2hosting.com:7822 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

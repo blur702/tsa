@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="mi3-ls15.a2hosting.com" id="e80b0891-91ec-47f6-acc6-66954be7db63" port="7822" nameFormat="DESCRIPTIVE" username="dkevinal" />
+    </configs>
+  </component>
+</project>
