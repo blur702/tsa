@@ -1,0 +1,21 @@
+name: tsa
+type: theme
+description: 'TSA subtheme'
+core: 8.x
+base theme: bootstrap4
+
+# Libraries.
+libraries-override:
+  bootstrap4/global-styling: tsa/global-styling
+
+# Regions.
+regions:
+
+  content: 'Main content'
+
+
+; Information added by Drupal.org packaging script on 2020-03-28
+version = "8.x-1.0-rc5"
+core = "8.x"
+project = "bootstrap4"
+datestamp = "1585405282"
