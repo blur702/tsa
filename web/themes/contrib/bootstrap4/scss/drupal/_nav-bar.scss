@@ -1,0 +1,29 @@
+.navbar {
+
+  .navbar-brand {
+    img {
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  .block-search {
+    form {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+
+      @include media-breakpoint-up(sm) {
+        flex-direction: row;
+      }
+
+      .form-actions {
+        margin-top: $spacer / 2;
+        @include media-breakpoint-up(md) {
+          margin-left: $spacer / 2;
+          margin-top: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+a {
+  &.tabledrag-handle {
+    .handle {
+      display: table-cell;
+      padding-right: $spacer !important; // sass-lint:disable-line no-important
+    }
+  }
+}
+
+label {
+  display: inline-block;
+  margin: $spacer / 2 0 0 0;
+}
+
+
